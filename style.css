@@ -1,0 +1,35 @@
+body {
+  background-image: sky;
+}
+h1 {
+  color: turquoise;
+  font-size: xxx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+  position: relative;
+  top: 90px;
+  font-size: x-large;
+}
+ul {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  list-style-type: none;
+  font-size: larger;
+}
+.menu {
+  border: solid 2px turquoise;
+  top: 0;
+  position: fixed;
+  font-size: x-large;
+  right: 0;
+  padding: 20px;
+  margin-right: 40px;
+  font-weight: normal;
+  font-family: monospace;
+}
+.searchbar {
+  position: relative;
+  bottom: 850px;
+  left: 600px;
+}
